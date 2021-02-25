@@ -1,11 +1,6 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Zumo de Zanahoria",
-      "precio": "31111"
-    },
-    {
       "id": 2,
       "nombre": "Zumo de Naranja",
       "precio": "1"
@@ -24,26 +19,6 @@
       "nombre": "Zumo de Fresa",
       "precio": "200",
       "id": 5
-    },
-    {
-      "nombre": "Pollo",
-      "precio": 3455,
-      "id": 6
-    },
-    {
-      "nombre": "Riby",
-      "precio": 400,
-      "id": 7
-    },
-    {
-      "nombre": "Hamburguesa vegana",
-      "precio": 123,
-      "id": 8
-    },
-    {
-      "nombre": "Carne Wagyú",
-      "precio": 234,
-      "id": 9
     }
   ]
 }
