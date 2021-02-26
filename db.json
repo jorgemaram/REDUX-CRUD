@@ -19,6 +19,11 @@
       "nombre": "Zumo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "nombre": "Helado de mango",
+      "precio": 2,
+      "id": 6
     }
   ]
 }
